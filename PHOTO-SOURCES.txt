@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-073-hdseptic High Desert Septic (Wave 15 2026-10-01 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 15 files: see builds/_assets_dl/wave15/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave15/septic-tank-set.jpg : New tank set in an open excavation (cropped so no person is in frame) (wikimedia Public domain https://commons.wikimedia.org/wiki/File:U.S._Soldiers_with_the_829th_Engineer_Company,_Wisconsin_Army_National_Guard_install_a_septic_tank_in_support_of_Beyond_the_Horizon_(BTH)_2013_in_Sonsonate,_El_Salvador,_May_29,_2013_130529-A-MR246-451.jpg)
+services-trade.jpg <- wave15/septic-form-archive.jpg : Tank form set in an excavation, ready for concrete; archival photo (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Old_headquarters_sewage_system_ready_for_concrete_on_septic_tank,_Superintendent%27s_Residence._;_ZION_Museum_and_Archives_Image_(5876ae0b07454a1c812cc2dcdfcb40ea).jpg)
+people-crew.jpg <- wave15/septic-bucket-field.jpg : Excavator bucket over an open field (wordpress CC0 1.0 https://wordpress.org/photos/photo/498688cc81/)
+people-marek.jpg <- wave15/septic-rings-site.jpg : Precast concrete rings laid out on a site (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Concrete_rings.jpg)
+people-tom.jpg <- wave15/septic-top-poured.jpg : Concrete top poured over a new tank; archival photo (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Old_headquarters_sewage_system_with_concrete_on_top_of_septic_tank,_Superintendent%27s_Residence._;_ZION_Museum_and_Archives_Image_(9400223e1dd040d7910b871db74ff03a).jpg)
+coverage-house.jpg <- wave12/house-ranch-lawn.jpg : Single-story ranch home with a lawn, street view (wikimedia Public domain https://commons.wikimedia.org/wiki/File:HouseII2007.jpg)
+septic-ground-wet.jpg <- wave15/septic-ground-wet.jpg : Soggy ground over an old failing system, before replacement (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/41284017@N08/52258460199)
+septic-yard-new.jpg <- wave15/septic-yard-new.jpg : Fresh dirt over new work beside a home, lid showing (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/41284017@N08/52257202147)
+lot-desert-scrub.jpg <- wave15/lot-desert-scrub.jpg : Open desert lot with scrub and Joshua trees (rawpixel CC0 1.0 https://www.rawpixel.com/image/3294051/free-photo-image-abies-basin-building)
+septic-yard-graded.jpg <- wave15/septic-yard-graded.jpg : Fresh dirt over new work in a side yard (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/41284017@N08/52258183928)
+septic-lid-old.jpg <- wave15/septic-lid-old.jpg : Old tank lid in dry grass, before replacement (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=68471589)
+septic-lids-row.jpg <- wave15/septic-lids-row.jpg : Row of finished tank lids in grass (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Septic_tank_man_hole.jpg)
+
+Note: New trade (septic): wave15 set, no person in any photo (the hero is a public-domain photo cropped so no one is in frame). Services are the two from the packet permits, nothing added. CEO call: the same-name domain in the packet is never mentioned or linked, and no domain idea contains that name; the other same-name domains in the packet are NOT used. No personal name anywhere, only the business wordmark and 'the owner'. The third-party provider list in the packet is not a service-area source and its town is not named. Similar-name businesses in the packet notes are not named.
